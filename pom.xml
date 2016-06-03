@@ -33,10 +33,10 @@
     <name>eXo Platform MySQL driver</name>
     <description>eXo Platform MySQL driver</description>
     <scm>
-        <connection>scm:git:git://github.com/exo-addons/exo-jdbc-driver-postgresql.git</connection>
-        <developerConnection>scm:git:git@github.com:exo-addons/exo-jdbc-driver-postgresql.git</developerConnection>
+        <connection>scm:git:git://github.com/MrHanachoo/exo-jdbc-driver-postgresql.git</connection>
+        <developerConnection>scm:git:git@github.com:MrHanachoo/exo-jdbc-driver-postgresql.git</developerConnection>
         <tag>1.0.0</tag>
-        <url>https://github.com/exo-addons/exo-jdbc-driver-postgresql</url>
+        <url>https://github.com/MrHanachoo/exo-jdbc-driver-postgresql</url>
     </scm>
     <properties>
         <maven.compiler.target>1.7</maven.compiler.target>
